@@ -1,2 +1,15 @@
 
-/* Your CSS Code here. */
+
+/* Correct CSS Code */
+
+.accio {
+  width: 150px; /* Use a semicolon instead of a comma */
+  height: 150px; /* Use a semicolon instead of a comma */
+  background-color: #000000; /* Correct syntax */
+}
+
+.hello-accio {
+  color: #ffffff; /* Correct syntax */
+  margin-left: 32px; /* Use margin-left instead of left-margin */
+  padding: 10px 10px 10px 10px /* Remove incorrect spaces */
+}
